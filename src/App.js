@@ -5,7 +5,12 @@ function App() {
   return (
     <div className="App">
       
-      <p>aapiruaaa</p>
+      <p>DINGO BELL DINGO BELL</p>
+      <p>DINGO BELL DINGO BELL</p>
+      <p>DINGO BELL DINGO BELL</p>
+      <p>DINGO BELL DINGO BELL</p>
+      <p>DINGO BELL DINGO BELL</p>
+      <p>DINGO BELL DINGO BELL</p>
 
     </div>
   );
